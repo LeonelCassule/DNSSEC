@@ -4,4 +4,6 @@ ns3 simulator for setting up dns server sin a simulator
 
 https://www.nsnam.org/
 
+https://ns3simulation.com/how-to-calculate-network-dns-management-in-ns3/
+
 
